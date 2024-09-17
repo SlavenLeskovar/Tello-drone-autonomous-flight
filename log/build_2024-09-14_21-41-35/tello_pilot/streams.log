@@ -1,0 +1,24 @@
+[0.839s] Invoking command in '/home/slaven/tello_ros_ws/src/tello_pilot': PYTHONPATH=/home/slaven/tello_ros_ws/build/tello_pilot/prefix_override:/home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/tello_pilot build --build-base /home/slaven/tello_ros_ws/build/tello_pilot/build install --record /home/slaven/tello_ros_ws/build/tello_pilot/install.log --single-version-externally-managed install_data
+[1.081s] running egg_info
+[1.084s] writing ../../build/tello_pilot/tello_pilot.egg-info/PKG-INFO
+[1.084s] writing dependency_links to ../../build/tello_pilot/tello_pilot.egg-info/dependency_links.txt
+[1.085s] writing entry points to ../../build/tello_pilot/tello_pilot.egg-info/entry_points.txt
+[1.085s] writing requirements to ../../build/tello_pilot/tello_pilot.egg-info/requires.txt
+[1.085s] writing top-level names to ../../build/tello_pilot/tello_pilot.egg-info/top_level.txt
+[1.091s] reading manifest file '../../build/tello_pilot/tello_pilot.egg-info/SOURCES.txt'
+[1.093s] writing manifest file '../../build/tello_pilot/tello_pilot.egg-info/SOURCES.txt'
+[1.093s] running build
+[1.093s] running build_py
+[1.093s] copying tello_pilot/tello_pilot.py -> /home/slaven/tello_ros_ws/build/tello_pilot/build/lib/tello_pilot
+[1.095s] running install
+[1.096s] running install_lib
+[1.096s] copying /home/slaven/tello_ros_ws/build/tello_pilot/build/lib/tello_pilot/tello_pilot.py -> /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot
+[1.097s] byte-compiling /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot/tello_pilot.py to tello_pilot.cpython-310.pyc
+[1.099s] running install_data
+[1.100s] running install_egg_info
+[1.104s] removing '/home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot-0.0.0-py3.10.egg-info' (and everything under it)
+[1.112s] Copying ../../build/tello_pilot/tello_pilot.egg-info to /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot-0.0.0-py3.10.egg-info
+[1.113s] running install_scripts
+[1.174s] Installing tello_pilot script to /home/slaven/tello_ros_ws/install/tello_pilot/lib/tello_pilot
+[1.176s] writing list of installed files to '/home/slaven/tello_ros_ws/build/tello_pilot/install.log'
+[1.224s] Invoked command in '/home/slaven/tello_ros_ws/src/tello_pilot' returned '0': PYTHONPATH=/home/slaven/tello_ros_ws/build/tello_pilot/prefix_override:/home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/tello_pilot build --build-base /home/slaven/tello_ros_ws/build/tello_pilot/build install --record /home/slaven/tello_ros_ws/build/tello_pilot/install.log --single-version-externally-managed install_data

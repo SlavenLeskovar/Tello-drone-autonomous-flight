@@ -1,0 +1,21 @@
+{
+    "cmake.configureOnOpen": false,
+    "python.autoComplete.extraPaths": [
+        "/home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages",
+        "/home/slaven/tello_ros_ws/install/tello_msgs/local/lib/python3.10/dist-packages",
+        "/home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages",
+        "/home/slaven/tello_ros_ws/install/ros2_aruco/lib/python3.10/site-packages",
+        "/home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages",
+        "/home/slaven/tello_ros_ws/install/tello_msgs/local/lib/python3.10/dist-packages",
+        "/home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages",
+        "/home/slaven/tello_ros_ws/install/ros2_aruco/lib/python3.10/site-packages",
+        "/home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

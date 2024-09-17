@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/tello_pilot/tello_pilot.egg-info/PKG-INFO
+writing dependency_links to ../../build/tello_pilot/tello_pilot.egg-info/dependency_links.txt
+writing entry points to ../../build/tello_pilot/tello_pilot.egg-info/entry_points.txt
+writing requirements to ../../build/tello_pilot/tello_pilot.egg-info/requires.txt
+writing top-level names to ../../build/tello_pilot/tello_pilot.egg-info/top_level.txt
+reading manifest file '../../build/tello_pilot/tello_pilot.egg-info/SOURCES.txt'
+writing manifest file '../../build/tello_pilot/tello_pilot.egg-info/SOURCES.txt'
+running build
+running build_py
+copying tello_pilot/tello_pilot.py -> /home/slaven/tello_ros_ws/build/tello_pilot/build/lib/tello_pilot
+running install
+running install_lib
+copying /home/slaven/tello_ros_ws/build/tello_pilot/build/lib/tello_pilot/tello_pilot.py -> /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot
+byte-compiling /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot/tello_pilot.py to tello_pilot.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/tello_pilot/tello_pilot.egg-info to /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing tello_pilot script to /home/slaven/tello_ros_ws/install/tello_pilot/lib/tello_pilot
+writing list of installed files to '/home/slaven/tello_ros_ws/build/tello_pilot/install.log'

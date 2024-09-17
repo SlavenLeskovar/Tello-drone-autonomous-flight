@@ -1,0 +1,28 @@
+[0.021s] Invoking command in '/home/slaven/tello_ros_ws/build/ros2_shared': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --build /home/slaven/tello_ros_ws/build/ros2_shared -- -j2 -l2
+[0.102s] Invoked command in '/home/slaven/tello_ros_ws/build/ros2_shared' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --build /home/slaven/tello_ros_ws/build/ros2_shared -- -j2 -l2
+[0.170s] Invoking command in '/home/slaven/tello_ros_ws/build/ros2_shared': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --install /home/slaven/tello_ros_ws/build/ros2_shared
+[0.177s] -- Install configuration: ""
+[0.177s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/include
+[0.178s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/include/ros2_shared
+[0.178s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/include/ros2_shared/context_macros.hpp
+[0.178s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/include/ros2_shared/param_macros.hpp
+[0.178s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/include/ros2_shared/string_printf.hpp
+[0.178s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ament_index/resource_index/package_run_dependencies/ros2_shared
+[0.178s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ament_index/resource_index/parent_prefix_path/ros2_shared
+[0.179s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/environment/ament_prefix_path.sh
+[0.179s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/environment/ament_prefix_path.dsv
+[0.179s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/environment/path.sh
+[0.179s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/environment/path.dsv
+[0.179s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/local_setup.bash
+[0.179s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/local_setup.sh
+[0.180s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/local_setup.zsh
+[0.180s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/local_setup.dsv
+[0.180s] -- Installing: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/package.dsv
+[0.181s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ament_index/resource_index/packages/ros2_shared
+[0.181s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/cmake/ros2_shared_targetsExport.cmake
+[0.181s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/cmake/ament_cmake_export_targets-extras.cmake
+[0.181s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.181s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/cmake/ros2_sharedConfig.cmake
+[0.181s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/cmake/ros2_sharedConfig-version.cmake
+[0.182s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_shared/share/ros2_shared/package.xml
+[0.191s] Invoked command in '/home/slaven/tello_ros_ws/build/ros2_shared' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --install /home/slaven/tello_ros_ws/build/ros2_shared

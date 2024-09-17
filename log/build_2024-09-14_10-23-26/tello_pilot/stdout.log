@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/tello_pilot/tello_pilot.egg-info
+writing ../../build/tello_pilot/tello_pilot.egg-info/PKG-INFO
+writing dependency_links to ../../build/tello_pilot/tello_pilot.egg-info/dependency_links.txt
+writing entry points to ../../build/tello_pilot/tello_pilot.egg-info/entry_points.txt
+writing requirements to ../../build/tello_pilot/tello_pilot.egg-info/requires.txt
+writing top-level names to ../../build/tello_pilot/tello_pilot.egg-info/top_level.txt
+writing manifest file '../../build/tello_pilot/tello_pilot.egg-info/SOURCES.txt'
+reading manifest file '../../build/tello_pilot/tello_pilot.egg-info/SOURCES.txt'
+writing manifest file '../../build/tello_pilot/tello_pilot.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/slaven/tello_ros_ws/build/tello_pilot/build
+creating /home/slaven/tello_ros_ws/build/tello_pilot/build/lib
+creating /home/slaven/tello_ros_ws/build/tello_pilot/build/lib/tello_pilot
+copying tello_pilot/__init__.py -> /home/slaven/tello_ros_ws/build/tello_pilot/build/lib/tello_pilot
+copying tello_pilot/tello_pilot.py -> /home/slaven/tello_ros_ws/build/tello_pilot/build/lib/tello_pilot
+running install
+running install_lib
+creating /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot
+copying /home/slaven/tello_ros_ws/build/tello_pilot/build/lib/tello_pilot/__init__.py -> /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot
+copying /home/slaven/tello_ros_ws/build/tello_pilot/build/lib/tello_pilot/tello_pilot.py -> /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot
+byte-compiling /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot/tello_pilot.py to tello_pilot.cpython-310.pyc
+running install_data
+creating /home/slaven/tello_ros_ws/install/tello_pilot/share/ament_index
+creating /home/slaven/tello_ros_ws/install/tello_pilot/share/ament_index/resource_index
+creating /home/slaven/tello_ros_ws/install/tello_pilot/share/ament_index/resource_index/packages
+copying resource/tello_pilot -> /home/slaven/tello_ros_ws/install/tello_pilot/share/ament_index/resource_index/packages
+copying package.xml -> /home/slaven/tello_ros_ws/install/tello_pilot/share/tello_pilot
+running install_egg_info
+Copying ../../build/tello_pilot/tello_pilot.egg-info to /home/slaven/tello_ros_ws/install/tello_pilot/lib/python3.10/site-packages/tello_pilot-0.0.0-py3.10.egg-info
+running install_scripts
+Installing tello_pilot script to /home/slaven/tello_ros_ws/install/tello_pilot/lib/tello_pilot
+writing list of installed files to '/home/slaven/tello_ros_ws/build/tello_pilot/install.log'

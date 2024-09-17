@@ -1,0 +1,10 @@
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/uninstall.dir
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/tello_gazebo_uninstall.dir
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/TelloPlugin.dir
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/test.dir
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/edit_cache.dir
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/rebuild_cache.dir
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/list_install_components.dir
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/install.dir
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/install/local.dir
+/home/slaven/tello_ros_ws/build/tello_gazebo/CMakeFiles/install/strip.dir

@@ -1,0 +1,142 @@
+[0.014s] Invoking command in '/home/slaven/tello_ros_ws/build/ros2_aruco_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --build /home/slaven/tello_ros_ws/build/ros2_aruco_interfaces -- -j2 -l2
+[0.084s] [  3%] Built target ros2_aruco_interfaces__cpp
+[0.108s] [ 12%] Built target ros2_aruco_interfaces__rosidl_generator_c
+[0.117s] [ 12%] Built target ament_cmake_python_copy_ros2_aruco_interfaces
+[0.159s] [ 22%] Built target ros2_aruco_interfaces__rosidl_typesupport_cpp
+[0.167s] [ 32%] Built target ros2_aruco_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.182s] [ 41%] Built target ros2_aruco_interfaces__rosidl_typesupport_introspection_c
+[0.215s] [ 51%] Built target ros2_aruco_interfaces__rosidl_typesupport_introspection_cpp
+[0.225s] [ 61%] Built target ros2_aruco_interfaces__rosidl_typesupport_c
+[0.252s] [ 70%] Built target ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c
+[0.270s] [ 70%] Built target ros2_aruco_interfaces
+[0.292s] [ 74%] Built target ros2_aruco_interfaces__py
+[0.308s] [ 80%] Built target ros2_aruco_interfaces__rosidl_generator_py
+[0.327s] [ 87%] Built target ros2_aruco_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[0.345s] [ 93%] Built target ros2_aruco_interfaces__rosidl_typesupport_introspection_c__pyext
+[0.369s] [100%] Built target ros2_aruco_interfaces__rosidl_typesupport_c__pyext
+[0.539s] running egg_info
+[0.541s] writing ros2_aruco_interfaces.egg-info/PKG-INFO
+[0.544s] writing dependency_links to ros2_aruco_interfaces.egg-info/dependency_links.txt
+[0.544s] writing top-level names to ros2_aruco_interfaces.egg-info/top_level.txt
+[0.545s] reading manifest file 'ros2_aruco_interfaces.egg-info/SOURCES.txt'
+[0.546s] writing manifest file 'ros2_aruco_interfaces.egg-info/SOURCES.txt'
+[0.595s] [100%] Built target ament_cmake_python_build_ros2_aruco_interfaces_egg
+[0.617s] Invoked command in '/home/slaven/tello_ros_ws/build/ros2_aruco_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --build /home/slaven/tello_ros_ws/build/ros2_aruco_interfaces -- -j2 -l2
+[0.711s] Invoking command in '/home/slaven/tello_ros_ws/build/ros2_aruco_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --install /home/slaven/tello_ros_ws/build/ros2_aruco_interfaces
+[0.712s] -- Install configuration: ""
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ament_index/resource_index/rosidl_interfaces/ros2_aruco_interfaces
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/rosidl_generator_c__visibility_control.h
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__type_support.h
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__functions.h
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__functions.c
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__struct.h
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/aruco_markers.h
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/library_path.sh
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/library_path.dsv
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_generator_c.so
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__rosidl_typesupport_fastrtps_c.h
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_fastrtps_c.so
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg
+[0.712s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__struct.hpp
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__builder.hpp
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__traits.hpp
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/aruco_markers.hpp
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__rosidl_typesupport_fastrtps_cpp.hpp
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/dds_fastrtps
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__type_support.c
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__rosidl_typesupport_introspection_c.h
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_introspection_c.so
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_c.so
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__rosidl_typesupport_introspection_cpp.hpp
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/include/ros2_aruco_interfaces/ros2_aruco_interfaces/msg/detail/aruco_markers__type_support.cpp
+[0.713s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_introspection_cpp.so
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_typesupport_cpp.so
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/pythonpath.sh
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/pythonpath.dsv
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces-0.1.0-py3.10.egg-info
+[0.714s] -- Installing: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces-0.1.0-py3.10.egg-info/top_level.txt
+[0.714s] -- Installing: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces-0.1.0-py3.10.egg-info/PKG-INFO
+[0.714s] -- Installing: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces-0.1.0-py3.10.egg-info/SOURCES.txt
+[0.714s] -- Installing: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces-0.1.0-py3.10.egg-info/dependency_links.txt
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/__init__.py
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/ros2_aruco_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/_ros2_aruco_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/msg
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/msg/__init__.py
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/msg/_aruco_markers_s.c
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/msg/_aruco_markers.py
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/_ros2_aruco_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/ros2_aruco_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/libros2_aruco_interfaces__rosidl_generator_py.so
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/ros2_aruco_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.714s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/_ros2_aruco_interfaces_s.ep.rosidl_typesupport_c.c
+[0.753s] Listing '/home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces'...
+[0.753s] Listing '/home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/msg'...
+[0.756s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/ros2_aruco_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[0.757s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/ros2_aruco_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[0.759s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/local/lib/python3.10/dist-packages/ros2_aruco_interfaces/ros2_aruco_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[0.759s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/lib/libros2_aruco_interfaces__rosidl_generator_py.so
+[0.759s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/msg/ArucoMarkers.idl
+[0.760s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/msg/ArucoMarkers.msg
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ament_index/resource_index/package_run_dependencies/ros2_aruco_interfaces
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ament_index/resource_index/parent_prefix_path/ros2_aruco_interfaces
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/ament_prefix_path.sh
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/ament_prefix_path.dsv
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/path.sh
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/environment/path.dsv
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/local_setup.bash
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/local_setup.sh
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/local_setup.zsh
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/local_setup.dsv
+[0.762s] -- Installing: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/package.dsv
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ament_index/resource_index/packages/ros2_aruco_interfaces
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/export_ros2_aruco_interfaces__rosidl_generator_cExport.cmake
+[0.762s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/export_ros2_aruco_interfaces__rosidl_generator_cExport-noconfig.cmake
+[0.765s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/export_ros2_aruco_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[0.765s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/export_ros2_aruco_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[0.765s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/export_ros2_aruco_interfaces__rosidl_generator_cppExport.cmake
+[0.766s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/export_ros2_aruco_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[0.766s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/export_ros2_aruco_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[0.766s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[0.766s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[0.766s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_cExport.cmake
+[0.766s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[0.769s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[0.769s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[0.769s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_cppExport.cmake
+[0.769s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[0.769s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/export_ros2_aruco_interfaces__rosidl_generator_pyExport.cmake
+[0.769s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/export_ros2_aruco_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[0.769s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/rosidl_cmake-extras.cmake
+[0.770s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[0.770s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[0.770s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[0.770s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[0.770s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[0.770s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[0.770s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfacesConfig.cmake
+[0.771s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/cmake/ros2_aruco_interfacesConfig-version.cmake
+[0.771s] -- Up-to-date: /home/slaven/tello_ros_ws/install/ros2_aruco_interfaces/share/ros2_aruco_interfaces/package.xml
+[0.774s] Invoked command in '/home/slaven/tello_ros_ws/build/ros2_aruco_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --install /home/slaven/tello_ros_ws/build/ros2_aruco_interfaces

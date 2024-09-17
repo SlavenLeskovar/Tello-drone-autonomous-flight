@@ -1,0 +1,38 @@
+[0.428s] Invoking command in '/home/slaven/tello_ros_ws/src/p_controller': PYTHONPATH=/home/slaven/tello_ros_ws/build/p_controller/prefix_override:/home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/p_controller build --build-base /home/slaven/tello_ros_ws/build/p_controller/build install --record /home/slaven/tello_ros_ws/build/p_controller/install.log --single-version-externally-managed install_data
+[0.724s] running egg_info
+[0.724s] creating ../../build/p_controller/p_controller.egg-info
+[0.724s] writing ../../build/p_controller/p_controller.egg-info/PKG-INFO
+[0.724s] writing dependency_links to ../../build/p_controller/p_controller.egg-info/dependency_links.txt
+[0.724s] writing entry points to ../../build/p_controller/p_controller.egg-info/entry_points.txt
+[0.724s] writing requirements to ../../build/p_controller/p_controller.egg-info/requires.txt
+[0.724s] writing top-level names to ../../build/p_controller/p_controller.egg-info/top_level.txt
+[0.724s] writing manifest file '../../build/p_controller/p_controller.egg-info/SOURCES.txt'
+[0.724s] reading manifest file '../../build/p_controller/p_controller.egg-info/SOURCES.txt'
+[0.724s] adding license file 'LICENSE'
+[0.724s] writing manifest file '../../build/p_controller/p_controller.egg-info/SOURCES.txt'
+[0.724s] running build
+[0.724s] running build_py
+[0.724s] creating /home/slaven/tello_ros_ws/build/p_controller/build
+[0.724s] creating /home/slaven/tello_ros_ws/build/p_controller/build/lib
+[0.724s] creating /home/slaven/tello_ros_ws/build/p_controller/build/lib/p_controller
+[0.724s] copying p_controller/__init__.py -> /home/slaven/tello_ros_ws/build/p_controller/build/lib/p_controller
+[0.724s] copying p_controller/p_controller.py -> /home/slaven/tello_ros_ws/build/p_controller/build/lib/p_controller
+[0.724s] running install
+[0.724s] running install_lib
+[0.725s] creating /home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages/p_controller
+[0.725s] copying /home/slaven/tello_ros_ws/build/p_controller/build/lib/p_controller/__init__.py -> /home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages/p_controller
+[0.725s] copying /home/slaven/tello_ros_ws/build/p_controller/build/lib/p_controller/p_controller.py -> /home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages/p_controller
+[0.725s] byte-compiling /home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages/p_controller/__init__.py to __init__.cpython-310.pyc
+[0.725s] byte-compiling /home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages/p_controller/p_controller.py to p_controller.cpython-310.pyc
+[0.725s] running install_data
+[0.725s] creating /home/slaven/tello_ros_ws/install/p_controller/share/ament_index
+[0.725s] creating /home/slaven/tello_ros_ws/install/p_controller/share/ament_index/resource_index
+[0.725s] creating /home/slaven/tello_ros_ws/install/p_controller/share/ament_index/resource_index/packages
+[0.725s] copying resource/p_controller -> /home/slaven/tello_ros_ws/install/p_controller/share/ament_index/resource_index/packages
+[0.725s] copying package.xml -> /home/slaven/tello_ros_ws/install/p_controller/share/p_controller
+[0.725s] running install_egg_info
+[0.725s] Copying ../../build/p_controller/p_controller.egg-info to /home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages/p_controller-0.0.0-py3.10.egg-info
+[0.725s] running install_scripts
+[0.742s] Installing p_controller script to /home/slaven/tello_ros_ws/install/p_controller/lib/p_controller
+[0.759s] writing list of installed files to '/home/slaven/tello_ros_ws/build/p_controller/install.log'
+[0.763s] Invoked command in '/home/slaven/tello_ros_ws/src/p_controller' returned '0': PYTHONPATH=/home/slaven/tello_ros_ws/build/p_controller/prefix_override:/home/slaven/tello_ros_ws/install/p_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/p_controller build --build-base /home/slaven/tello_ros_ws/build/p_controller/build install --record /home/slaven/tello_ros_ws/build/p_controller/install.log --single-version-externally-managed install_data

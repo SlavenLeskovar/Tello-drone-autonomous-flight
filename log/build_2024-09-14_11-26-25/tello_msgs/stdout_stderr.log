@@ -1,0 +1,6 @@
+[ 10%] Built target tello_msgs__rosidl_generator_c
+[ 12%] Built target tello_msgs__cpp
+gmake[1]: *** [CMakeFiles/Makefile2:394: CMakeFiles/tello_msgs__rosidl_typesupport_cpp.dir/all] Interrupt
+gmake[2]: *** [CMakeFiles/ament_cmake_python_copy_tello_msgs.dir/build.make:85: CMakeFiles/ament_cmake_python_copy_tello_msgs.dir/depend] Interrupt
+gmake[1]: *** [CMakeFiles/Makefile2:420: CMakeFiles/ament_cmake_python_copy_tello_msgs.dir/all] Interrupt
+gmake: *** [Makefile:146: all] Interrupt

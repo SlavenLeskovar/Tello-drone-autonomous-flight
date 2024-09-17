@@ -1,0 +1,8 @@
+[0.041s] Invoking command in '/home/slaven/tello_ros_ws/build/tello_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --build /home/slaven/tello_ros_ws/build/tello_msgs -- -j2 -l2
+[0.169s] [ 10%] Built target tello_msgs__rosidl_generator_c
+[0.174s] [ 12%] Built target tello_msgs__cpp
+[0.178s] gmake[1]: *** [CMakeFiles/Makefile2:394: CMakeFiles/tello_msgs__rosidl_typesupport_cpp.dir/all] Interrupt
+[0.179s] gmake[2]: *** [CMakeFiles/ament_cmake_python_copy_tello_msgs.dir/build.make:85: CMakeFiles/ament_cmake_python_copy_tello_msgs.dir/depend] Interrupt
+[0.180s] gmake[1]: *** [CMakeFiles/Makefile2:420: CMakeFiles/ament_cmake_python_copy_tello_msgs.dir/all] Interrupt
+[0.180s] gmake: *** [Makefile:146: all] Interrupt
+[0.207s] Invoked command in '/home/slaven/tello_ros_ws/build/tello_msgs' returned '-2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/slaven/tello_ros_ws/install/tello_pilot:/home/slaven/tello_ros_ws/install/ros2_aruco:/home/slaven/tello_ros_ws/install/p_controller:/opt/ros/humble /usr/bin/cmake --build /home/slaven/tello_ros_ws/build/tello_msgs -- -j2 -l2

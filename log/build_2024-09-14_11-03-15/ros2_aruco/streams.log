@@ -1,0 +1,22 @@
+[0.640s] Invoking command in '/home/slaven/tello_ros_ws/src/ros2_aruco/ros2_aruco': PYTHONPATH=/home/slaven/tello_ros_ws/build/ros2_aruco/prefix_override:/home/slaven/tello_ros_ws/install/ros2_aruco/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ros2_aruco build --build-base /home/slaven/tello_ros_ws/build/ros2_aruco/build install --record /home/slaven/tello_ros_ws/build/ros2_aruco/install.log --single-version-externally-managed install_data
+[0.831s] running egg_info
+[0.832s] writing ../../../build/ros2_aruco/ros2_aruco.egg-info/PKG-INFO
+[0.832s] writing dependency_links to ../../../build/ros2_aruco/ros2_aruco.egg-info/dependency_links.txt
+[0.832s] writing entry points to ../../../build/ros2_aruco/ros2_aruco.egg-info/entry_points.txt
+[0.832s] writing requirements to ../../../build/ros2_aruco/ros2_aruco.egg-info/requires.txt
+[0.833s] writing top-level names to ../../../build/ros2_aruco/ros2_aruco.egg-info/top_level.txt
+[0.834s] reading manifest file '../../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+[0.835s] writing manifest file '../../../build/ros2_aruco/ros2_aruco.egg-info/SOURCES.txt'
+[0.835s] running build
+[0.835s] running build_py
+[0.835s] running install
+[0.835s] running install_lib
+[0.836s] running install_data
+[0.836s] running install_egg_info
+[0.838s] removing '/home/slaven/tello_ros_ws/install/ros2_aruco/lib/python3.10/site-packages/ros2_aruco-0.1.0-py3.10.egg-info' (and everything under it)
+[0.839s] Copying ../../../build/ros2_aruco/ros2_aruco.egg-info to /home/slaven/tello_ros_ws/install/ros2_aruco/lib/python3.10/site-packages/ros2_aruco-0.1.0-py3.10.egg-info
+[0.839s] running install_scripts
+[0.860s] Installing aruco_generate_marker script to /home/slaven/tello_ros_ws/install/ros2_aruco/lib/ros2_aruco
+[0.861s] Installing aruco_node script to /home/slaven/tello_ros_ws/install/ros2_aruco/lib/ros2_aruco
+[0.861s] writing list of installed files to '/home/slaven/tello_ros_ws/build/ros2_aruco/install.log'
+[0.889s] Invoked command in '/home/slaven/tello_ros_ws/src/ros2_aruco/ros2_aruco' returned '0': PYTHONPATH=/home/slaven/tello_ros_ws/build/ros2_aruco/prefix_override:/home/slaven/tello_ros_ws/install/ros2_aruco/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/ros2_aruco build --build-base /home/slaven/tello_ros_ws/build/ros2_aruco/build install --record /home/slaven/tello_ros_ws/build/ros2_aruco/install.log --single-version-externally-managed install_data
